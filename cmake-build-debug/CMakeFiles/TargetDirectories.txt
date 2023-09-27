@@ -1,0 +1,3 @@
+C:/Users/Lenovo/Documents/GitHub/crack-c/cmake-build-debug/CMakeFiles/crack_c.dir
+C:/Users/Lenovo/Documents/GitHub/crack-c/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Documents/GitHub/crack-c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
