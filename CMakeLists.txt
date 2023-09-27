@@ -5,4 +5,5 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(crack_c
        # "c programmes.c"
-        "name,email ID,approx age.c")
+        "name,email ID,approx age.c"
+        "swap 2 numbers.c")
