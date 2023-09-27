@@ -4,4 +4,5 @@ project(crack_c C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(crack_c
-        "c programmes.c")
+       # "c programmes.c"
+        "name,email ID,approx age.c")
