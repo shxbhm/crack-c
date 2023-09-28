@@ -85,6 +85,12 @@ build CMakeFiles/crack_c.dir/area_of_circle.c.obj: C_COMPILER__crack_c_unscanned
   OBJECT_DIR = CMakeFiles\crack_c.dir
   OBJECT_FILE_DIR = CMakeFiles\crack_c.dir
 
+build CMakeFiles/crack_c.dir/swapping_numbers_using_+-_operators.c.obj: C_COMPILER__crack_c_unscanned_Debug C$:/Users/Lenovo/Documents/GitHub/crack-c/swapping$ numbers$ using$ +-$ operators.c || cmake_object_order_depends_target_crack_c
+  DEP_FILE = CMakeFiles\crack_c.dir\swapping_numbers_using_+-_operators.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\crack_c.dir
+  OBJECT_FILE_DIR = CMakeFiles\crack_c.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target crack_c
@@ -93,7 +99,7 @@ build CMakeFiles/crack_c.dir/area_of_circle.c.obj: C_COMPILER__crack_c_unscanned
 #############################################
 # Link the executable crack_c.exe
 
-build crack_c.exe: C_EXECUTABLE_LINKER__crack_c_Debug CMakeFiles/crack_c.dir/c_programmes.c.obj CMakeFiles/crack_c.dir/name,email_ID,approx_age.c.obj CMakeFiles/crack_c.dir/swap_2_numbers.c.obj CMakeFiles/crack_c.dir/print_triangle_pattern.c.obj CMakeFiles/crack_c.dir/ASCII_VALUE.c.obj CMakeFiles/crack_c.dir/area_of_circle.c.obj
+build crack_c.exe: C_EXECUTABLE_LINKER__crack_c_Debug CMakeFiles/crack_c.dir/c_programmes.c.obj CMakeFiles/crack_c.dir/name,email_ID,approx_age.c.obj CMakeFiles/crack_c.dir/swap_2_numbers.c.obj CMakeFiles/crack_c.dir/print_triangle_pattern.c.obj CMakeFiles/crack_c.dir/ASCII_VALUE.c.obj CMakeFiles/crack_c.dir/area_of_circle.c.obj CMakeFiles/crack_c.dir/swapping_numbers_using_+-_operators.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\crack_c.dir
