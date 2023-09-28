@@ -9,4 +9,5 @@ add_executable(crack_c
         "swap 2 numbers.c"
         "c programmes.c"
         "print triangle pattern.c"
-        "ASCII VALUE.c")
+        "ASCII VALUE.c"
+        "area of circle.c")
