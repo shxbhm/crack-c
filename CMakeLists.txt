@@ -8,4 +8,5 @@ add_executable(crack_c
         "name,email ID,approx age.c"
         "swap 2 numbers.c"
         "c programmes.c"
-        "print triangle pattern.c")
+        "print triangle pattern.c"
+        "ASCII VALUE.c")
