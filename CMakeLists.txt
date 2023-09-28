@@ -11,4 +11,5 @@ add_executable(crack_c
         "print triangle pattern.c"
         "ASCII VALUE.c"
         "area of circle.c"
-        "swapping numbers using +- operators.c")
+        "swapping numbers using +- operators.c"
+        "celcius to farenhite.c")
