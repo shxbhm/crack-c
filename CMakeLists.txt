@@ -12,4 +12,5 @@ add_executable(crack_c
         "ASCII VALUE.c"
         "area of circle.c"
         "swapping numbers using +- operators.c"
-        "celcius to farenhite.c")
+        "celcius to farenhite.c"
+        helloworld.c)
