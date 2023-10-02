@@ -5,7 +5,7 @@ int main (){
     printf("ENTER YOUR NAME:");
     scanf("%s",&n);
     printf("\n enter programme:");
-    scanf("%S",&p);
+    scanf("%s",&p);
     printf("\n enter birth year:");
     scanf("%d"&b);
     printf("calculated age:%d",2023-b);

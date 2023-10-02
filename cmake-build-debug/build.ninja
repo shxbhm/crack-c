@@ -103,6 +103,24 @@ build CMakeFiles/crack_c.dir/helloworld.c.obj: C_COMPILER__crack_c_unscanned_Deb
   OBJECT_DIR = CMakeFiles\crack_c.dir
   OBJECT_FILE_DIR = CMakeFiles\crack_c.dir
 
+build CMakeFiles/crack_c.dir/check_the_number_is_prime_or_not.c.obj: C_COMPILER__crack_c_unscanned_Debug C$:/Users/Lenovo/Documents/GitHub/crack-c/check$ the$ number$ is$ prime$ or$ not.c || cmake_object_order_depends_target_crack_c
+  DEP_FILE = CMakeFiles\crack_c.dir\check_the_number_is_prime_or_not.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\crack_c.dir
+  OBJECT_FILE_DIR = CMakeFiles\crack_c.dir
+
+build CMakeFiles/crack_c.dir/nested_loop.c.obj: C_COMPILER__crack_c_unscanned_Debug C$:/Users/Lenovo/Documents/GitHub/crack-c/nested$ loop.c || cmake_object_order_depends_target_crack_c
+  DEP_FILE = CMakeFiles\crack_c.dir\nested_loop.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\crack_c.dir
+  OBJECT_FILE_DIR = CMakeFiles\crack_c.dir
+
+build CMakeFiles/crack_c.dir/nested_loop_2_.c.obj: C_COMPILER__crack_c_unscanned_Debug C$:/Users/Lenovo/Documents/GitHub/crack-c/nested$ loop$ 2$ .c || cmake_object_order_depends_target_crack_c
+  DEP_FILE = CMakeFiles\crack_c.dir\nested_loop_2_.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\crack_c.dir
+  OBJECT_FILE_DIR = CMakeFiles\crack_c.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target crack_c
@@ -111,7 +129,7 @@ build CMakeFiles/crack_c.dir/helloworld.c.obj: C_COMPILER__crack_c_unscanned_Deb
 #############################################
 # Link the executable crack_c.exe
 
-build crack_c.exe: C_EXECUTABLE_LINKER__crack_c_Debug CMakeFiles/crack_c.dir/c_programmes.c.obj CMakeFiles/crack_c.dir/name,email_ID,approx_age.c.obj CMakeFiles/crack_c.dir/swap_2_numbers.c.obj CMakeFiles/crack_c.dir/print_triangle_pattern.c.obj CMakeFiles/crack_c.dir/ASCII_VALUE.c.obj CMakeFiles/crack_c.dir/area_of_circle.c.obj CMakeFiles/crack_c.dir/swapping_numbers_using_+-_operators.c.obj CMakeFiles/crack_c.dir/celcius_to_farenhite.c.obj CMakeFiles/crack_c.dir/helloworld.c.obj
+build crack_c.exe: C_EXECUTABLE_LINKER__crack_c_Debug CMakeFiles/crack_c.dir/c_programmes.c.obj CMakeFiles/crack_c.dir/name,email_ID,approx_age.c.obj CMakeFiles/crack_c.dir/swap_2_numbers.c.obj CMakeFiles/crack_c.dir/print_triangle_pattern.c.obj CMakeFiles/crack_c.dir/ASCII_VALUE.c.obj CMakeFiles/crack_c.dir/area_of_circle.c.obj CMakeFiles/crack_c.dir/swapping_numbers_using_+-_operators.c.obj CMakeFiles/crack_c.dir/celcius_to_farenhite.c.obj CMakeFiles/crack_c.dir/helloworld.c.obj CMakeFiles/crack_c.dir/check_the_number_is_prime_or_not.c.obj CMakeFiles/crack_c.dir/nested_loop.c.obj CMakeFiles/crack_c.dir/nested_loop_2_.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\crack_c.dir

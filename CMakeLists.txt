@@ -13,4 +13,7 @@ add_executable(crack_c
         "area of circle.c"
         "swapping numbers using +- operators.c"
         "celcius to farenhite.c"
-        helloworld.c)
+        helloworld.c
+        "check the number is prime or not.c"
+        "nested loop.c"
+        "nested loop 2 .c")
